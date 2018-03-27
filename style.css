@@ -1,0 +1,14 @@
+#about-sec, #growth-sec {
+  padding:40px;
+}
+#about-sec {
+  background-color: lightgrey;
+}
+#growth-sec {
+  background-color: white;
+}
+
+.section-title {
+  text-align:center;
+}
+
